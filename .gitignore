@@ -1,0 +1,13 @@
+Library
+obj
+Temp
+tmp
+TMP
+*.csproj
+*.sln
+*.userprefs
+.DS_Store
+.vs
+*.unityproj
+ProjectSettings
+
